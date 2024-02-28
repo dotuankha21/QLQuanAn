@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|d:\\hk8\\damh_nhom7_2001200307_nguyenthongthai_xaydungphanmemquanlyquanan_all\\3 source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\file source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\nhom7_quanlyquanan\\tuankha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|solutionrelative:tuankha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\tuankha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|solutionrelative:tuankha\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|d:\\hk8\\damh_nhom7_2001200307_nguyenthongthai_xaydungphanmemquanlyquanan_all\\3 source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\file source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\nhom7_quanlyquanan\\tuankha\\methods\\hoadon_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|solutionrelative:tuankha\\methods\\hoadon_method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\tuankha\\methods\\xuly_cautruyvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2556CF09-BBA8-4C56-853B-94FE0A2FD5AA}|TuanKha\\TuanKha.csproj|solutionrelative:tuankha\\methods\\xuly_cautruyvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Form1.cs",
+              "RelativeDocumentMoniker": "TuanKha\\Form1.cs",
+              "ToolTip": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Form1.cs",
+              "RelativeToolTip": "TuanKha\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:29:18.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDon_Method.cs",
+              "DocumentMoniker": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Methods\\HoaDon_Method.cs",
+              "RelativeDocumentMoniker": "TuanKha\\Methods\\HoaDon_Method.cs",
+              "ToolTip": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Methods\\HoaDon_Method.cs",
+              "RelativeToolTip": "TuanKha\\Methods\\HoaDon_Method.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:27:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XuLy_CauTruyVan.cs",
+              "DocumentMoniker": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Methods\\XuLy_CauTruyVan.cs",
+              "RelativeDocumentMoniker": "TuanKha\\Methods\\XuLy_CauTruyVan.cs",
+              "ToolTip": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Methods\\XuLy_CauTruyVan.cs",
+              "RelativeToolTip": "TuanKha\\Methods\\XuLy_CauTruyVan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:27:56.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Form1.cs",
+              "RelativeDocumentMoniker": "TuanKha\\Form1.cs",
+              "ToolTip": "D:\\HK8\\DAMH_Nhom7_2001200307_NguyenThongThai_XayDungPhanMemQuanLyQuanAn_All\\3 Source code ch\u01B0\u01A1ng tr\u00ECnh \u0111\u00E3 \u0111\u00F3ng g\u00F3i\\File source code ch\u01B0a \u0111\u00F3ng g\u00F3i\\Nhom7_QuanLyQuanAn\\TuanKha\\Form1.cs [Design]",
+              "RelativeToolTip": "TuanKha\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:27:56.995Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
